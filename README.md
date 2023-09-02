@@ -1,6 +1,7 @@
 # cv_attendance
-\bComputer Vision Based Attendance System
+## Computer Vision Based Attendance System
 
+### Introduction
 This project is a face scanning attendance system which scans facial patterns and stores it with the student information to help mark attendance. 
 Python's tkinter library makes up for our GUI while MySQL is used to store and fetch information. 
 All student details and attendance records are written into CSV files.
@@ -15,24 +16,27 @@ This database has been programmed to be accessed by the host to check the attend
 
 Spectrum estimates the problem and delivers the solution with utmost accuracy thanks to Adam Geitgey's face_recognition module which detects facial patterns even in non-ideal conditions.
 
+### Description
 While this project is quite deep in code, the execution is rather very simple. 
 
 Just a 3-step process entailing – Image Capture, Image Training, Marking of Attendance, makes this project a very easy to understand project.
 In addition, to really provide a spectrum of an experience, a search toolkit has been added to rectify/quickly search student details which provides an ease of access.
 
+### Output
 The primary windows of the system include:
 
 1. The home window:
+   
    <img width="824" alt="Screenshot 2023-09-02 at 5 45 13 PM" src="https://github.com/droy824/cv_attendance/assets/90248176/c6ded02a-a720-4aaa-af07-3ff884f36af3">
    
-2. Entering and searching student details:
+3. Entering and searching student details:
    <img width="961" alt="Screenshot 2023-09-02 at 5 46 28 PM" src="https://github.com/droy824/cv_attendance/assets/90248176/0270599a-ae38-4780-89a0-0fc2c601c432">
 
-3. Training face patterns:
+4. Training face patterns:
    <img width="1074" alt="Screenshot 2023-09-02 at 5 47 33 PM" src="https://github.com/droy824/cv_attendance/assets/90248176/f4af04f6-fb16-49bb-9a50-7823856d8419">
 
-4. Accessing attendance details:
+5. Accessing attendance details:
    <img width="999" alt="Screenshot 2023-09-02 at 5 50 08 PM" src="https://github.com/droy824/cv_attendance/assets/90248176/adb49b57-dabc-4668-900c-026021e3da01">
 
-5. Recognising the student's face and marking attendance:
+6. Recognising the student's face and marking attendance:
    <img width="1075" alt="Screenshot 2023-09-02 at 5 51 52 PM" src="https://github.com/droy824/cv_attendance/assets/90248176/bb2c3474-ce36-46eb-92d3-ca6c26609601">
