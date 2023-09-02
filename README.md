@@ -1,5 +1,5 @@
 # cv_attendance
-<\b> Computer Vision Based Attendance System <\b>
+\bComputer Vision Based Attendance System
 
 This project is a face scanning attendance system which scans facial patterns and stores it with the student information to help mark attendance. 
 Python's tkinter library makes up for our GUI while MySQL is used to store and fetch information. 
@@ -23,7 +23,7 @@ In addition, to really provide a spectrum of an experience, a search toolkit has
 The primary windows of the system include:
 
 1. The home window:
-<img width="824" alt="Screenshot 2023-09-02 at 5 45 13 PM" src="https://github.com/droy824/cv_attendance/assets/90248176/c6ded02a-a720-4aaa-af07-3ff884f36af3">
+   <img width="824" alt="Screenshot 2023-09-02 at 5 45 13 PM" src="https://github.com/droy824/cv_attendance/assets/90248176/c6ded02a-a720-4aaa-af07-3ff884f36af3">
    
 2. Entering and searching student details:
    <img width="961" alt="Screenshot 2023-09-02 at 5 46 28 PM" src="https://github.com/droy824/cv_attendance/assets/90248176/0270599a-ae38-4780-89a0-0fc2c601c432">
