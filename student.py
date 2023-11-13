@@ -4,7 +4,7 @@ from tkinter import messagebox
 #from tkcalendar import Calendar
 #from PIL import Image,PIL.ImageTk #Pillow Library
 import PIL.Image, PIL.ImageTk
-from compProject_FaceRecognition_06012022 import *
+from compProject_FaceRecognition import *
 from compProject_MySQL import *
 from faces import *
 import sys
